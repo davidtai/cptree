@@ -22,7 +22,7 @@
     "url": "https://github.com/davidtai/cptree/issues"
   },
   "homepage": "https://github.com/davidtai/cptree#readme",
-    "devDependencies": {
+  "devDependencies": {
     "bebop": "1.7.16",
     "broken": "0.1.2",
     "cake-publish": "0.1.1",
@@ -52,5 +52,9 @@
     "serve-static": "^1.10.0",
     "shortcake": "1.1.11",
     "uglify-js": "^2.6.1"
+  },
+  "dependencies": {
+    "findit": "2.0.0",
+    "to-regexp": "0.1.7"
   }
 }
